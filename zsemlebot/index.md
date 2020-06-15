@@ -11,6 +11,12 @@ For questions/issues contact `zomle` on Twitch or write to my protonmail.com add
 | !game | Displays info about current game of the channel owner |
 | !oppelo | Displays elo of the opponent in the current game (if any game is in progress) |
 
+### For broadcasters
+
+|    Command |  Description |
+|------------|--------------|
+| !leave [twitchname] | Makes the bot leave the channel. `twitchname` must be the broadcaster's name (just for confirmation) |
+
 ### For broadcasters/mods
 
 | Command | Description |
