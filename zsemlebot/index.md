@@ -1,13 +1,14 @@
+## zsemlebot info
 For questions/issues contact `zomle` on Twitch or write to my protonmail.com address (same username)
 
 ## Available commands
 ### For everyone
-| Command | Description |
-|:------------|-------------:|
-| `!elo` | Displays elo of current channel owner |
-| `!elo [hotaname]` | Displays elo of the specified hota user (if the bot recognizes the username) |
-| `!game` | Displays info about current game of the channel owner |
-| `!oppelo` | Displays elo of the opponent in the current game (if any game is in progress) |
+|    Command |  Description |
+|------------|-------------|
+| !elo | Displays elo of current channel owner |
+| !elo [hotaname] | Displays elo of the specified hota user (if the bot recognizes the username) |
+| !game | Displays info about current game of the channel owner |
+| !oppelo | Displays elo of the opponent in the current game (if any game is in progress) |
 
 ### For broadcasters/mods
 | Command | Description |
