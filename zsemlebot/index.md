@@ -8,6 +8,8 @@ For questions/issues contact `zomle` on Twitch or write to my protonmail.com add
 |------------|--------------|
 | !elo | Displays elo of current channel owner |
 | !elo [hotaname] | Displays elo of the specified hota user (if the bot recognizes the username) |
+| !rep | Displays reputation of current channel owner |
+| !rep [hotaname] | Displays reputation of the specified hota user (if the bot recognizes the username) |
 | !game | Displays info about current game of the channel owner |
 | !oppelo | Displays elo of the opponent in the current game (if any game is in progress) |
 
