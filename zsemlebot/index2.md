@@ -56,13 +56,13 @@ Also, it is enough to set trade and color for only one of the players, the other
 ### Steps
 1. Join the Hota lobby
 2. Message the `konyer` user in the Hota lobby: ![Message konyer](https://raw.githubusercontent.com/zomle/zomle.github.io/master/zsemlebot/scr_linkme1.png)
-3. Send a message to `konyer`: !linkme &lt;twitch name>. For example if your Twitch name is zomle, type `!linkme zomle`
+3. Send a message to `konyer`: `!linkme <twitch name>`. For example if your Twitch name is zomle, type `!linkme zomle`
 4. The bot will respond with an authentication code, that will have to be used on Twitch: ![Verification code](https://raw.githubusercontent.com/zomle/zomle.github.io/master/zsemlebot/scr_linkme2.png)
 5. Now log in to Twitch and join `zomle` user's Twitch chat: [https://www.twitch.tv/popout/zomle/chat](https://www.twitch.tv/popout/zomle/chat)
-6. Send the authentication code in chat in the following format: !linkme &lt;auth code>: ![Twitch message](https://raw.githubusercontent.com/zomle/zomle.github.io/master/zsemlebot/scr_linkme3.png)
+6. Send the authentication code in chat in the following format: `!linkme <auth code>`: ![Twitch message](https://raw.githubusercontent.com/zomle/zomle.github.io/master/zsemlebot/scr_linkme3.png)
 7. Your Twitch user and Hota user should be linked now. The bot will send back a confirmation message.
 
 ## Removing link between your Twitch and Hota users
 1. Log in to Twitch and join `zomle` user's Twitch chat: [https://www.twitch.tv/popout/zomle/chat](https://www.twitch.tv/popout/zomle/chat)
-2. Send the !unlink command to chat in the following format: !unlinkme &lt;hota user>. For example: !unlinkme zsemle
+2. Send the !unlink command to chat in the following format: `!unlinkme <hota user>`. For example: `!unlinkme zsemle`
 3. The bot will delete the link between the Twitch and the Hota user.
