@@ -6,9 +6,6 @@ redcarpet:
 include:
   - zsemlebot/index.md
   - zsemlebot/index2.md
-  - zsemlebot/src_linkme1.png
-  - zsemlebot/src_linkme2.png
-  - zsemlebot/src_linkme3.png
   - README.md
 
 theme: jekyll-theme-minimal
