@@ -17,12 +17,14 @@ For questions/issues contact `zomle` on Twitch or write to my `zomle` at `proton
 | !streak [name] | Displays win/loss streak of the specified twitch/hota user (if the bot recognizes the username) |
 | !today | Displays ranked wins/losses of current date for the current channel owner |
 | !today [name] | Displays wins/losss of current date for the specified twitch/hota user (if the bot recognizes the username) |
+| !unlinkme [hotaname] | Deletes the link between the current twitch user and the hota user |
 
 ### For broadcasters
 
 |    Command |  Description |
 |------------|--------------|
-| !leave [twitchname] | Makes the bot leave the channel. `twitchname` must be the broadcaster's name (just for confirmation) |
+| !joinme [twitchname] | Makes the bot join the channel. `twitchname` must be the broadcaster's own name (just for confirmation) |
+| !leave [twitchname] | Makes the bot leave the channel. `twitchname` must be the broadcaster's own name (just for confirmation) |
 | !zsemlebot enable [command] | Enables the specified command in the current channel. E.g. 'enable !today' |
 | !zsemlebot disable [command] | Disables the specified command in the current channel. E.g. 'disable !game' |
 | !zsemlebot set timezone [offset]| Sets the timezone that's used in !today command. Format: `utc\[+-](hours)` or `utc\[\+-](hours):(mins)`. E.g.: `utc+2` or `utc-5:30`, etc. |
