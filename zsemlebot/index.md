@@ -15,8 +15,8 @@ For questions/issues contact `zomle` on Twitch or write to my `zomle` at `proton
 | !rep [name] | Displays reputation of the specified twitch/hota user (if the bot recognizes the username) |
 | !streak | Displays win/loss streak of the current channel owner |
 | !streak [name] | Displays win/loss streak of the specified twitch/hota user (if the bot recognizes the username) |
-| !today | Displays ranked wins/losses of current date for the current channel owner |
-| !today [name] | Displays wins/losss of current date for the specified twitch/hota user (if the bot recognizes the username) |
+| !today | Displays ranked wins/losses of current date for the current channel owner. Game times are based on UTC time, so channel owner must set `timezone` (see below) for correct results. |
+| !today [name] | Displays wins/losss of current date for the specified twitch/hota user (if the bot recognizes the username). Game times are based on UTC time. |
 | !unlinkme [hotaname] | Deletes the link between the current twitch user and the hota user |
 
 ### For broadcasters
