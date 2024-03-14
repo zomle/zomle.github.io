@@ -29,7 +29,7 @@ It is possible to link your own Twitch and Hota users by yourself, see below.
 | !leave [twitchname] | Makes the bot leave the channel. `twitchname` must be the broadcaster's own name (just for confirmation) |
 | !zsemlebot enable [command] | Enables the specified command in the current channel. E.g. 'enable !today' |
 | !zsemlebot disable [command] | Disables the specified command in the current channel. E.g. 'disable !game' |
-| !zsemlebot set timezone [offset]| Sets the timezone that's used in !today command. Format: `utc\[+-](hours)` or `utc\[\+-](hours):(mins)`. E.g.: `utc+2` or `utc-5:30`, etc. |
+| !zsemlebot set timezone [offset]| Sets the timezone that's used in !today command. Format: `utc[+-](hours)` or `utc[+-](hours):(mins)`. E.g.: `utc+2` or `utc-5:30`, etc. |
 | !zsemlebot unset timezone | Unsets the timezone reverting it to it's default value (utc time) |
 
 ### For broadcasters/mods
