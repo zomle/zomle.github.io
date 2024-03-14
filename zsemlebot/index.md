@@ -1,5 +1,7 @@
 ## zsemlebot info
-For questions/issues contact `zomle` on Twitch or write to my `zomle` at `protonmail.com` address.
+For questions/issues contact `zomle` on Twitch or write to my `zomle` at `protonmail.com` address.  
+
+It is possible to link your own Twitch and Hota users by yourself, see below.
 
 ## Available commands
 ### For everyone
@@ -23,7 +25,7 @@ For questions/issues contact `zomle` on Twitch or write to my `zomle` at `proton
 
 |    Command |  Description |
 |------------|--------------|
-| !joinme [twitchname] | Makes the bot join the channel. `twitchname` must be the broadcaster's own name (just for confirmation) |
+| !joinme [twitchname] | This command must be used in `zomle`'s Twitch chat. Makes the bot join the channel. `twitchname` must be the broadcaster's own name (just for confirmation) |
 | !leave [twitchname] | Makes the bot leave the channel. `twitchname` must be the broadcaster's own name (just for confirmation) |
 | !zsemlebot enable [command] | Enables the specified command in the current channel. E.g. 'enable !today' |
 | !zsemlebot disable [command] | Disables the specified command in the current channel. E.g. 'disable !game' |
