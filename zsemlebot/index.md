@@ -1,5 +1,5 @@
 ## zsemlebot info
-For questions/issues contact `zomle` on Twitch or write to my `zomle` at `protonmail.com` address.  
+For questions/issues contact `zomle` on Twitch or write to my `me` at `zomle.ca` address.  
 
 It is possible to link your own Twitch and Hota users by yourself, see below.
 
